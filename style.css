@@ -68,7 +68,15 @@ footer {
     padding: 20px 0;
 }
 
+.formulario button {
+    background-color: #CB6D43;
+    border: none;
+    font-weight: bold;
+}
 
+.form-control {
+    background-color: #F1EDEF;
+}
 
 .menu-acessibilidade{
     position: fixed;
